@@ -1,2 +1,2 @@
-# Marketing-Model-Related-Python-Module
-Python Module Developed for Marketing Model Building
+# Some Useful Code Notes
+Python Module Developed for Machine Learning
